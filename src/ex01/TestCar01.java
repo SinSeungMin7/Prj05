@@ -13,7 +13,7 @@ public class TestCar01 {
 		System.out.println();
 		
 		String name2  = "엄마차";
-		String color2 = "Red";
+		String color2 = "Red"; 
 		int    year2  = 2025;
 		
 		System.out.println("차이름: " + name2);
