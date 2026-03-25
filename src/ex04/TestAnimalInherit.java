@@ -11,7 +11,7 @@ class Pet {
 class Dog extends Pet{ // Dog = Pet + Dog 
 	   // extends : 상속의 선언(방법)
 // class (자식) 클래스명 extends (부모)클래스명{ }
-	void   bark() {
+	void bark() {
 		System.out.println(name + "(이)가 멍멍");
 	}
 }
